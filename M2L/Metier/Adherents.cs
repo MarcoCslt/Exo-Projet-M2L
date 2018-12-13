@@ -13,6 +13,8 @@ namespace M2L
         public string prenom { get; set; }
         public DateTime dateAdhesion { get; set; }
 
+        public string test = "ligne test";
+
         public Adherents()
         {
 

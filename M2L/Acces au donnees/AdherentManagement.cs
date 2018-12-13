@@ -23,7 +23,7 @@ namespace M2L
         public List<Adherents> getLesAdherents()
         {
             return lesAdherents;
-        }
+        }  
 
         public void supprimerAdherent(Adherents unAdherent)
         {
